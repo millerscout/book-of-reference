@@ -13,3 +13,7 @@ https://www.codeproject.com/Articles/42001/NET-Best-Practice-No-Using-performanc
 https://www.codeproject.com/Articles/42391/Best-Practice-No-Improve-band#Conclusion
 
 https://www.codeproject.com/Articles/42721/Best-Practices-No-5-Detecting-NET-application-memo
+
+https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/
+
+https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/#:~:text=In%20a%20stack%2C%20the%20allocation,in%20heap%20memory%20is%20fragmentation.
