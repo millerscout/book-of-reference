@@ -7,6 +7,10 @@ https://www.hanselman.com/blog/cloud-database-nosql-nah-just-use-csvs-and-csvhel
 ## Async Tips
 https://cpratt.co/async-tips-tricks/
 
+https://www.meziantou.net/links-async-await-csharp.htm
+
+https://haacked.com/archive/2014/11/11/async-void-methods/ (has async void detection for unit test)
+
 
 ## Memory Leaks / Performance
 
@@ -33,3 +37,9 @@ https://www.nprofiler.com/ (Best!)
 https://archive.codeplex.com/?p=clrprofiler
 
 https://www.jetbrains.com/dotmemory/
+
+## BLOGS
+
+https://www.meziantou.net/
+
+https://www.hanselman.com/
