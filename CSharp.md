@@ -30,6 +30,8 @@ https://www.c-sharpcorner.com/article/C-Sharp-heaping-vs-stacking-in-net-part-i/
 
 https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/#:~:text=In%20a%20stack%2C%20the%20allocation,in%20heap%20memory%20is%20fragmentation.
 
+http://thinkexception.blogspot.com/2010/06/tool-to-bompare-two-windbg-dumpheap.html
+
 ## Profiler
 
 https://www.nprofiler.com/ (Best!)
