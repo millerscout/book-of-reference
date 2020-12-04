@@ -32,6 +32,8 @@ https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/#:~:text=In%20a%20
 
 http://thinkexception.blogspot.com/2010/06/tool-to-bompare-two-windbg-dumpheap.html
 
+https://github.com/microsoft/perfview
+
 ## Profiler
 
 https://www.nprofiler.com/ (Best!)
