@@ -46,6 +46,12 @@ https://archive.codeplex.com/?p=clrprofiler
 
 https://www.jetbrains.com/dotmemory/
 
+## BIG O
+
+https://yourbasic.org/algorithms/big-o-notation-explained/
+
+https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444
+
 ## BLOGS
 
 https://www.meziantou.net/
