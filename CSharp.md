@@ -11,6 +11,10 @@ https://www.meziantou.net/links-async-await-csharp.htm
 
 https://haacked.com/archive/2014/11/11/async-void-methods/ (has async void detection for unit test)
 
+https://medium.com/@joni2nja/why-you-should-not-use-continuewith-in-your-async-code-c9eaf6087e64
+
+https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
+
 
 ## Memory Leaks / Performance
 
