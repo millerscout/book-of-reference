@@ -39,6 +39,8 @@ http://thinkexception.blogspot.com/2010/06/tool-to-bompare-two-windbg-dumpheap.h
 
 https://github.com/microsoft/perfview
 
+http://clarkkromenaker.com/post/csharp-structs/
+
 ## Profiler
 
 https://www.nprofiler.com/ (Best!)
