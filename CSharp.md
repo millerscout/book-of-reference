@@ -15,6 +15,7 @@ https://medium.com/@joni2nja/why-you-should-not-use-continuewith-in-your-async-c
 
 https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
 
+https://medium.com/@deep_blue_day/long-story-short-async-await-best-practices-in-net-1f39d7d84050
 
 ## Memory Leaks / Performance
 
