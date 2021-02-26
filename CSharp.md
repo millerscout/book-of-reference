@@ -41,6 +41,12 @@ https://github.com/microsoft/perfview
 
 http://clarkkromenaker.com/post/csharp-structs/
 
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
+
 ## Profiler
 
 https://www.nprofiler.com/ (Best!)
