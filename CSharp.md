@@ -47,6 +47,8 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/
 
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types
 
+http://prodotnetmemory.com/slides/performancepatternslong/#5
+
 ## Profiler
 
 https://www.nprofiler.com/ (Best!)
