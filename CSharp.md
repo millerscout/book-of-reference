@@ -49,13 +49,18 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/refer
 
 http://prodotnetmemory.com/slides/performancepatternslong/#5
 
-## Profiler
+## Tools
+  ### Profilers
+  
+  https://www.nprofiler.com/ (Best!)
 
-https://www.nprofiler.com/ (Best!)
+  https://archive.codeplex.com/?p=clrprofiler
 
-https://archive.codeplex.com/?p=clrprofiler
-
-https://www.jetbrains.com/dotmemory/
+  https://www.jetbrains.com/dotmemory/
+  
+  ### Benchmarkers
+  
+  https://github.com/dotnet/BenchmarkDotNet
 
 ## BIG O
 
