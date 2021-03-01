@@ -53,6 +53,8 @@ http://prodotnetmemory.com/slides/performancepatternslong/#5
   ### Profilers
   
   https://www.nprofiler.com/ (Best!)
+  
+  https://github.com/microsoft/perfview
 
   https://archive.codeplex.com/?p=clrprofiler
 
