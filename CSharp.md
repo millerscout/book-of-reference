@@ -49,6 +49,9 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/refer
 
 http://prodotnetmemory.com/slides/performancepatternslong/#5
 
+https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md
+
+https://github.com/adamsitnik/awesome-dot-net-performance
 ## Tools
   ### Profilers
   
