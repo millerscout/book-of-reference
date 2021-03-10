@@ -81,3 +81,5 @@ https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexit
 https://www.meziantou.net/
 
 https://www.hanselman.com/
+
+https://tooslowexception.com/
