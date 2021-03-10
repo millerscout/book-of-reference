@@ -52,6 +52,9 @@ http://prodotnetmemory.com/slides/performancepatternslong/#5
 https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md
 
 https://github.com/adamsitnik/awesome-dot-net-performance
+
+https://www.youtube.com/watch?v=touhHCD7RIc
+
 ## Tools
   ### Profilers
   
