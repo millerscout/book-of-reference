@@ -55,6 +55,8 @@ https://github.com/adamsitnik/awesome-dot-net-performance
 
 https://www.youtube.com/watch?v=touhHCD7RIc
 
+https://www.marcioalthmann.net/2020/07/performance-enum-flags-e-operadores-bitwise/
+
 ## Tools
   ### Profilers
   
