@@ -89,3 +89,5 @@ https://www.meziantou.net/
 https://www.hanselman.com/
 
 https://tooslowexception.com/
+
+https://www.youtube.com/watch?v=JfT9UxcEcOE
