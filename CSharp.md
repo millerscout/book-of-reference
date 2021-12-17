@@ -82,6 +82,20 @@ https://yourbasic.org/algorithms/big-o-notation-explained/
 
 https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444
 
+## Rabbit MQ
+
+https://www.rabbitmq.com/best-practices.html
+
+https://tanzu.vmware.com/content/rabbitmq-best-practices/practical-advice-for-the-care-and-feeding-of-rabbitmq-gavin-roy
+
+https://www.cloudamqp.com/blog/part2-rabbitmq-best-practice-for-high-performance.html
+
+https://www.cloudamqp.com/blog/part3-rabbitmq-best-practice-for-high-availability.html
+
+https://www.cloudamqp.com/blog/part4-rabbitmq-13-common-errors.html
+
+https://www.cloudamqp.com/blog/part1-rabbitmq-best-practice.html
+
 ## BLOGS
 
 https://www.meziantou.net/
