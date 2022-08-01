@@ -1,8 +1,12 @@
-# Study
+# Study - CSharp
 
 ## KISS ftw
 
 https://www.hanselman.com/blog/cloud-database-nosql-nah-just-use-csvs-and-csvhelper
+
+## Tests
+
+https://github.com/VerifyTests/Verify
 
 ## Async Tips
 https://cpratt.co/async-tips-tricks/
