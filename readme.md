@@ -100,6 +100,17 @@ https://www.cloudamqp.com/blog/part4-rabbitmq-13-common-errors.html
 
 https://www.cloudamqp.com/blog/part1-rabbitmq-best-practice.html
 
+## Cli Building
+
+https://medium.com/swlh/build-a-command-line-interface-cli-program-with-net-core-428c4c85221
+ 
+https://github.com/dotnet/command-line-api
+
+https://github.com/natemcmaster/CommandLineUtils
+
+https://github.com/deinsoftware/colorify
+
+https://github.com/commandlineparser/commandline
 ## BLOGS
 
 https://www.meziantou.net/
