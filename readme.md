@@ -1,4 +1,4 @@
-# Study - CSharp
+# Study
 
 ## KISS ftw
 
@@ -122,3 +122,5 @@ https://tooslowexception.com/
 https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1
 
 https://www.youtube.com/watch?v=JfT9UxcEcOE
+
+https://www.bashoneliners.com
