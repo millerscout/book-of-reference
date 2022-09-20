@@ -19,3 +19,5 @@ https://docs.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/get-started/syntax-ana
 https://stackoverflow.com/questions/39451235/find-usingdirectivesyntax-that-belongs-to-invocationexpressionsyntax
 
 https://www.csharpcodi.com/vs2/5869/dto-generator/src/DtoGenerator/DtoGenerator.Logic/Infrastructure/SyntaxExtenders.cs/#
+
+https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html#install-and-use-resharper-command-line-tools-as-net-core-tools
