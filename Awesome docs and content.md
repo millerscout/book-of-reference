@@ -21,3 +21,7 @@ https://stackoverflow.com/questions/39451235/find-usingdirectivesyntax-that-belo
 https://www.csharpcodi.com/vs2/5869/dto-generator/src/DtoGenerator/DtoGenerator.Logic/Infrastructure/SyntaxExtenders.cs/#
 
 https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html#install-and-use-resharper-command-line-tools-as-net-core-tools
+
+https://joshvarty.com/2014/08/15/learn-roslyn-now-part-5-csharpsyntaxrewriter/
+
+https://bettersoftware.blog/c-sharp/rewriting-c-with-roslyn/
