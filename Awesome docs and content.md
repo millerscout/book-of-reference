@@ -25,3 +25,7 @@ https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html#insta
 https://joshvarty.com/2014/08/15/learn-roslyn-now-part-5-csharpsyntaxrewriter/
 
 https://bettersoftware.blog/c-sharp/rewriting-c-with-roslyn/
+
+https://kind.sigs.k8s.io/
+
+https://thechief.io/c/editorial/k3d-vs-k3s-vs-kind-vs-microk8s-vs-minikube/
