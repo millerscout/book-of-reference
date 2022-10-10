@@ -29,3 +29,5 @@ https://bettersoftware.blog/c-sharp/rewriting-c-with-roslyn/
 https://kind.sigs.k8s.io/
 
 https://thechief.io/c/editorial/k3d-vs-k3s-vs-kind-vs-microk8s-vs-minikube/
+
+https://programming.vip/docs/docker-builds-rabbitmq-cluster-nginx-keepalived-high-availability.html
