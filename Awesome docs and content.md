@@ -33,3 +33,5 @@ https://thechief.io/c/editorial/k3d-vs-k3s-vs-kind-vs-microk8s-vs-minikube/
 https://programming.vip/docs/docker-builds-rabbitmq-cluster-nginx-keepalived-high-availability.html
 
 https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
+
+https://github.com/mukendik/https-github.com-dotnet-samples/tree/1594f032b1c82bfde0bc07a586e114fff090205b/framework/docker
