@@ -35,3 +35,9 @@ https://programming.vip/docs/docker-builds-rabbitmq-cluster-nginx-keepalived-hig
 https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
 
 https://github.com/mukendik/https-github.com-dotnet-samples/tree/1594f032b1c82bfde0bc07a586e114fff090205b/framework/docker
+
+https://github.com/OnyxPrime/kentico-ems-docker-poc/blob/b09cdbec1eacdb6f531c904496bf89ac542bef43/ems-web-only/dockerfile
+
+https://github.com/gravejester/psconfeu2018-shared/blob/9e8e6f403359d7c874a1e0a5510e8e58085c21b1/docker/Image2DockerDemo/Dockerfile
+
+https://github.com/kozhukalov/play/blob/870cf01296614e44e36a6df8bb8797e32bd09a63/Dockerfile
