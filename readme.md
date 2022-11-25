@@ -62,6 +62,9 @@ https://www.youtube.com/watch?v=touhHCD7RIc
 https://www.marcioalthmann.net/2020/07/performance-enum-flags-e-operadores-bitwise/
 
 ## Tools
+
+  https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
+
   ### Profilers
   
   https://www.nprofiler.com/ (Best!)
