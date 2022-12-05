@@ -114,6 +114,18 @@ https://github.com/natemcmaster/CommandLineUtils
 https://github.com/deinsoftware/colorify
 
 https://github.com/commandlineparser/commandline
+
+## IIS
+
+https://stackoverflow.com/questions/2525790/what-happens-to-other-users-if-the-net-worker-process-crashes#:~:text=IIS%20has%20an%20auto%2Drestart,the%20configured%20threshold%20is%20reached.
+
+https://iis-blogs.azurewebsites.net/thomad/the-iis-process-model-features
+
+https://www.leansentry.com/guide/reset-restart-recycle-iis
+
+https://www.leansentry.com/guide/reset-restart-recycle-iis/max-application-pool-warmup
+
+
 ## BLOGS
 
 https://www.meziantou.net/
