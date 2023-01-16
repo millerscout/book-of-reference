@@ -125,6 +125,10 @@ https://www.leansentry.com/guide/reset-restart-recycle-iis
 
 https://www.leansentry.com/guide/reset-restart-recycle-iis/max-application-pool-warmup
 
+## Project Organization
+
+https://programmingwithmosh.com/net/should-you-split-your-asp-net-mvc-project-into-multiple-projects/
+
 
 ## BLOGS
 
