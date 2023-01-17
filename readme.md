@@ -132,6 +132,7 @@ https://programmingwithmosh.com/net/should-you-split-your-asp-net-mvc-project-in
 ## Research
 https://www.researchgate.net/publication/221308010_Are_all_code_smells_harmful_A_study_of_God_Classes_and_Brain_Classes_in_the_evolution_of_three_open_source_systems
 
+https://www.simform.com/blog/software-architecture-patterns/
 
 ## BLOGS
 
