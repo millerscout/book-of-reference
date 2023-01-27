@@ -134,6 +134,9 @@ https://www.researchgate.net/publication/221308010_Are_all_code_smells_harmful_A
 
 https://www.simform.com/blog/software-architecture-patterns/
 
+# Kubernetes
+ https://komodor.com/learn/kubernetes-readiness-probes-a-practical-guide/
+ 
 ## BLOGS
 
 https://www.meziantou.net/
