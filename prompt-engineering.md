@@ -15,3 +15,4 @@ https://learn.microsoft.com/pt-br/azure/ai-services/openai/concepts/advanced-pro
 
 [llm tests](https://ten10.com/blog/how-to-test-llm-based-chatbots/) - plausible checks
 
+[The Guide To LLM Evals: How To Build and Benchmark Your Eva](https://towardsdatascience.com/llm-evals-setup-and-the-metrics-that-matter-2cc27e8e35f3)
