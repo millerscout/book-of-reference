@@ -18,3 +18,8 @@ https://learn.microsoft.com/pt-br/azure/ai-services/openai/concepts/advanced-pro
 [The Guide To LLM Evals: How To Build and Benchmark Your Eva](https://towardsdatascience.com/llm-evals-setup-and-the-metrics-that-matter-2cc27e8e35f3)
 
 https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/ - não lido
+
+## Videos
+
+[LLM Observability with Arize Phoenix and LlamaIndex](https://www.youtube.com/watch?v=lr0Z37G1a90)
+
