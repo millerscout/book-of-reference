@@ -23,3 +23,6 @@ https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/ - não li
 
 [LLM Observability with Arize Phoenix and LlamaIndex](https://www.youtube.com/watch?v=lr0Z37G1a90)
 
+## Tutorials
+
+[Evaluate RAG with LLM Evals](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_rag.ipynb)
