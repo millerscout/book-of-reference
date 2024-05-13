@@ -26,3 +26,5 @@ https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/ - não li
 ## Tutorials
 
 [Evaluate RAG with LLM Evals](https://colab.research.google.com/github/Arize-ai/phoenix/blob/main/tutorials/evals/evaluate_rag.ipynb)
+
+https://github.com/microsoft/promptflow-resource-hub/blob/main/sample_gallery/golden_dataset/copilot-golden-dataset-creation-guidance.md
