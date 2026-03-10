@@ -154,3 +154,15 @@ https://bits.houmus.org/2020-01-28/this-goes-to-eleven-pt1
 https://www.youtube.com/watch?v=JfT9UxcEcOE
 
 https://www.bashoneliners.com
+
+
+
+[The List & Timestamps]
+0:00 - Why your default Windows is holding you back
+0:40 - WinUtil: The ultimate first-step script.
+1:46 - O&O ShutUp10++: Kill the tracking and ads.
+2:52 - Flow Launcher: Search that actually works.
+4:00 - Rainmeter - Customize desktop
+5:17 - UniGetUI: The only "App Store" you need.
+6:28 - PowerToys: 15 Pro-level utilities in one.
+7:36 - Wintoys: Polish and optimize your system.
